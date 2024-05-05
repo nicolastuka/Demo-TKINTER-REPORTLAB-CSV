@@ -13,3 +13,5 @@ Para instalar TKINTER sin requirements.txt:     pip install tk
 Para instalar REPORTLAB sin requirements.txt:   pip install REPORTLAB
 
 CSV es una librería que viene por defecto
+
+Enlace a vídeo en Youtube: https://youtu.be/0_PddDL5OQ0
