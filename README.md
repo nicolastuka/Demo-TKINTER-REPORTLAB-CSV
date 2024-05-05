@@ -1,1 +1,15 @@
 # Demo-TKINTER-REPORTLAB-CSV
+
+Recordatorios:
+
+Para iniciar el entorno virtual:                . env/bin/activate
+
+Para salir del entorno virtual:                 deactivate
+
+Para instalar los requirements.txt:             pip install requirements.txt
+
+Para instalar TKINTER sin requirements.txt:     pip install tk
+
+Para instalar REPORTLAB sin requirements.txt:   pip install REPORTLAB
+
+CSV es una librería que viene por defecto
